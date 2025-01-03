@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mamma{
+    color: blueviolet;
+    background-color: aqua;
+    margin: 25px;
+    padding: 30px;
+}
